@@ -2,7 +2,7 @@
 
 
 🎯 Aspiring Data Scientist | Final-year B.Tech at **NIT Karnataka**  
-📚 Major in Mining Engineering (CGPA: 8.75/10), Minor in Economics (CGPA: 7.8/10)  
+📚 Major in Mining Engineering (CGPA: 8.83/10), Minor in Economics (CGPA: 7.8/10)  
 🔍 Passionate about building data-driven solutions using ML, analytics & BI tools  
 📊 Skilled in Python, Power BI, SQL, and Machine Learning
  
